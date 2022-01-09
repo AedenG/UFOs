@@ -3,6 +3,9 @@
 ## Project Overview
 Dana is a data journalist, who is from McMinnville, Oregon. Her hometown is an area where UFO sightings have been recorded. She is interested in creating a webpage that contains a filterable table about UFO sightings. 
 
+<img width="999" alt="UFO_head" src="https://user-images.githubusercontent.com/91852495/148666415-c4d3166e-8181-4b5e-ad52-d44dd97021d4.png">
+
+
 ## Resources
 Data Source: data.js
 
